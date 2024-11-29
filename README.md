@@ -43,6 +43,7 @@
 ```
  * bash infect.sh 
  ``` 
+```
  [+]-- Now you need internet connection to continue further process... 
  [+]-- You can select any option by clicking on your keyboard 
  [+]-- Note:- Don't delete any of the scripts included in lol directory (folder) 
