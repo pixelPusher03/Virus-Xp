@@ -1,6 +1,6 @@
 ## Virus Xp
 
- ## *[•]ABOUT TOOL* : 
+ ## *[•]ABOUT VIRUS XP* : 
   
  virus xp is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device. 
  Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Use. 
@@ -18,16 +18,32 @@
  * [+] Working virus tool for termux ! 
   
  ## INSTALLATION [Termux] : 
-  
- * `apt-get update -y` 
- * `apt-get upgrade -y` 
- * `pkg install python -y` 
- * `pkg install python2 -y` 
- * `pkg install git -y` 
- * `pip install lolcat` 
- * `git clone https://github.com/thedeveloper03/bugs2` 
- * `cd bugs2`
- * `bash infect.sh` 
+```  
+ * apt-get update -y
+ ```
+```
+ * apt-get upgrade -y`
+```
+```
+ * pkg install python -y
+```
+```
+ * pkg install python2 -y
+ ```
+```
+ * pkg install git -y
+```
+``` 
+ * pip install lolcat
+```
+``` 
+ * `git clone https://github.com/pixelPusher03/virus-Xp
+```
+```
+ * cd virus-Xp
+```
+```
+ * bash infect.sh 
  ``` 
  [+]-- Now you need internet connection to continue further process... 
  [+]-- You can select any option by clicking on your keyboard 
