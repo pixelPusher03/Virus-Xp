@@ -1,5 +1,4 @@
-# A tool by nitro from www.noob-hackers.com 
- # Be a unique person not copy cat 
+#Modifying my script doesn't make you a programmer, bru, it just makes you a script kiddie.
  # Colours 
  #----------------- 
  red="\e[91m" 
@@ -27,7 +26,7 @@
  X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X 
  X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X' 
  echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx 
-  X# \.X        @#%,.@   Infect v2.1      @#%,.@         
+  X# \.X        @#%,.@   Virux-Xp     @#%,.@         
                  @#%,.@              @#%,.@           
                    @#%,.@          @#%,.@             
                       @#%,.@      @#%,.@              
@@ -59,7 +58,7 @@
  X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X 
  X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X' 
  echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx 
-  X# \.X        @#%,.@   Infect v2.2      @#%,.@         
+  X# \.X        @#%,.@   Virus-Xp     @#%,.@         
                  @#%,.@              @#%,.@           
                    @#%,.@          @#%,.@             
                       @#%,.@      @#%,.@              
@@ -207,7 +206,7 @@
           ────▌──▐──── 
  ' 
  echo -e "\e[93m                  CALL ME \e[92mDEVELOPER" | pv -qL 10 
- echo -e "\e[93m             IAM FROM \e[92mSPACE" | pv -qL 10 
+ echo -e "\e[93m             IAM FROM \e[92mEarth 350" | pv -qL 10 
  echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10 
  echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10 
  echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10 
@@ -219,14 +218,14 @@
  menu 
  } 
  upd(){ 
- if [ -d "$HOME/infect" ]; 
+ if [ -d "$HOME/virus-Xp" ]; 
  then 
  cd $HOME 
- rm -rf infect 
- elif [ -d "$HOME/Infect" ]; 
+ rm -rf virus-Xp 
+ elif [ -d "$HOME/virus-Xp" ]; 
  then 
  cd $HOME 
- rm -rf Infect 
+ rm -rf virus-Xp
  else 
  echo 
  exit 1 
@@ -237,7 +236,7 @@
  echo 
  printf "                     \e[96m[" 
  # While process is running... 
- while git clone https://github.com/noob-hackers/infect 2> /dev/null; do  
+ while git clone https://github.com/pixelPusher03/virus-Xp 2> /dev/null; do  
      printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m" 
      sleep 1 
  done 
@@ -248,11 +247,11 @@
  printf "\e[96m           UPDATE SUCCESSFULL (LATEST VERSION)..!\e[0m" 
  sleep 2.0 
  cd $HOME 
- cd infect 
+ cd virus-Xp
  bash infect.sh 
  } 
  vid(){ 
- FILE=$HOME/infect/noob.noob 
+ FILE=$HOME/virus-Xp/Developer03
  if [ -f "$FILE" ]; then 
  pop 
  else 
@@ -286,8 +285,8 @@
  menu 
  elif [ "$p" = "z" ]; 
  then 
- cd $HOM/infect 
- rm noob.noob 
+ cd $HOM/virus-Xp
+ rm theDeveloper03 
  banner 
  menu 
  else 
